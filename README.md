@@ -127,6 +127,11 @@ Developed as part of **CS-671 Deep Learning Hackathon**.
 - Tarun Singh - B23103
 - Yashodeep - B23040
 
-## Admin username and pass
+## Admin username and pass for test
 - username: abc
 - pass: pqr
+
+# My Certification for 11th Position in hackathon
+
+![dl_certificate](https://github.com/user-attachments/assets/5c81d512-711e-40e8-94ec-74bb10ef35e3)
+
